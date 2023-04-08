@@ -1,16 +1,29 @@
-### Hi there 👋
+### 𝖮𝗅𝖺́! 𝖤𝗎 𝗌𝗈𝗎 𝖺 𝖭𝖺𝗒𝖺 😺
+Em busca de novos desafios sempre :)
 
-<!--
-**nayara-lucia/nayara-lucia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/)
+[![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](https:///)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https:///)
+<hr></hr>
 
-Here are some ideas to get you started:
+![gato](https://64.media.tumblr.com/56134a48a0c622dfa3358efb19f76f47/55e4db14f878c387-c9/s500x750/2310a26d5e47fd79c6a2e14e054c26fd75083c27.gifv)![gato](https://64.media.tumblr.com/56134a48a0c622dfa3358efb19f76f47/55e4db14f878c387-c9/s500x750/2310a26d5e47fd79c6a2e14e054c26fd75083c27.gifv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Naya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayara-lucia&show_icons=true&theme=highcontrast)                                               
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-lucia&theme=highcontrast)](https://github.com/nayara-lucia/github-readme-stats)
+
+Atualmente estou aprendendo 👇
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+![Neo](https://media.tenor.com/yJGHlWjzPBMAAAAC/matrix-neo.gif)
+<hr></hr>
+
+
+
+
