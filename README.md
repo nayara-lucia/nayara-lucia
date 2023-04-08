@@ -1,5 +1,5 @@
 ### 𝖮𝗅𝖺́! 𝖤𝗎 𝗌𝗈𝗎 𝖺 𝖭𝖺𝗒𝖺 😺
-𝖤𝗆 𝖻𝗎𝗌𝖼𝖺 𝖽𝖾 𝗇𝗈𝗏𝗈𝗌 𝖽𝖾𝗌𝖺𝖿𝗂𝗈 𝗌𝖾𝗆𝗉𝗋𝖾 :)
+𝖤𝗆 𝖻𝗎𝗌𝖼𝖺 𝖽𝖾 𝗇𝗈𝗏𝗈𝗌 𝖽𝖾𝗌𝖺𝖿𝗂𝗈s 𝗌𝖾𝗆𝗉𝗋𝖾 :)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/)
 [![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](https:///)
