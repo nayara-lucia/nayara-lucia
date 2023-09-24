@@ -1,4 +1,4 @@
-### 𝖮𝗅𝖺́! 𝖤𝗎 𝗌𝗈𝗎 𝖺 𝖭𝖺𝗒𝖺 😺
+### Hello! You can call me Naya 😺
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/) 
 <hr></hr>
