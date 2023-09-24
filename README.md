@@ -1,5 +1,7 @@
 ### Hello! You can call me Naya 😺
 
+<i>"Imagination is more important than knowledge. for knowledge is limited to all we know and understand, while imagination embraces the entire world"</i>
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/) 
 <hr></hr>
 
