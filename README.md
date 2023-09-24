@@ -11,7 +11,7 @@
 
 𝖠𝗍𝗎𝖺𝗅𝗆𝖾𝗇𝗍𝖾 𝖾𝗌𝗍𝗈𝗎 𝖺𝗉𝗋𝖾𝗇𝖽𝖾𝗇𝖽𝗈 👇🖥
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br></br>
 ![Neo](https://media.tenor.com/yJGHlWjzPBMAAAAC/matrix-neo.gif)
 <hr></hr>
