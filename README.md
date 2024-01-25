@@ -1,5 +1,6 @@
 ### Hello! You can call me Naya 😺
 
+- Working as Data Trainee 👷‍♀️
 - Data Science Lover 😻
 - Bachelor's Degree in Computer Science 🤖
 - Preparing to study Machine Learning 🧠
