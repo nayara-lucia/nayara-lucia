@@ -1,5 +1,10 @@
 ### Hello! You can call me Naya 😺
 
+- Data Science Lover 😻
+- Bachelor's Degree in Computer Science 🤖
+- Preparing to study Machine Learning 🧠
+
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/) 
 <hr></hr>
@@ -9,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-lucia&theme=highcontrast)](https://github.com/nayara-lucia/github-readme-stats)
 
 
-𝖠𝗍𝗎𝖺𝗅𝗆𝖾𝗇𝗍𝖾 𝖾𝗌𝗍𝗈𝗎 𝖺𝗉𝗋𝖾𝗇𝖽𝖾𝗇𝖽𝗈 👇🖥
+Learning 👇🖥
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br></br>
