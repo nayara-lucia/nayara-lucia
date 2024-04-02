@@ -1,6 +1,6 @@
 ### Hello! You can call me Naya 😺
 
-- Working as Data Trainee 👷‍♀️
+- Working as Data Intern 👷‍♀️
 - Data Science Lover 😻
 - Bachelor's Degree in Computer Science 🤖
 - Studying IA Machine Learning and Supervised Learning models 🧠
