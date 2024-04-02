@@ -3,7 +3,7 @@
 - Working as Data Trainee 👷‍♀️
 - Data Science Lover 😻
 - Bachelor's Degree in Computer Science 🤖
-- Preparing to study Machine Learning 🧠
+- Studying IA Machine Learning and Supervised Learning models 🧠
 
 
 
