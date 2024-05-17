@@ -3,7 +3,7 @@
 - Working as Data Intern 👷‍♀️
 - Data Science Lover 😻
 - Bachelor's Degree in Computer Science 🤖
-- Studying Machine Learning 🧠
+- Studying Machine Learning and NLP 🧠
 
 
 
