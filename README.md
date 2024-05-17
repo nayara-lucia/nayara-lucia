@@ -11,7 +11,7 @@
 
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-luciaslv/) 
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-lsilva/) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nayaraway089)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayaralucia)
 ![tumblr_b147a05014a4c67d8db1a65fac2b3d5b_5b7884cc_250](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/d6526e4f-0268-4c46-b819-6b290a44b7f6)
