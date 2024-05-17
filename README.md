@@ -22,7 +22,8 @@ Learning 👇🖥
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br></br>
-![Neo](https://media.tenor.com/yJGHlWjzPBMAAAAC/matrix-neo.gif)
+![tumblr_pkgmi8Qjvh1qzhf3uo1_r1_500](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/fb701349-36da-4a2f-ad54-673bf00eb210)
+
 <hr></hr>
 
 
