@@ -28,7 +28,8 @@ Main 🖥
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br></br>
-![tumblr_pkgmi8Qjvh1qzhf3uo1_r1_500](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/fb701349-36da-4a2f-ad54-673bf00eb210)
+
+![tumblr](https://64.media.tumblr.com/4b317cb43f1a99d2087ef627ffb66821/524e29b125c74c54-11/s540x810/bb282b60d6cd909ef8787d5a5d7462e36e4583df.gifv)
 
 <hr></hr>
 
