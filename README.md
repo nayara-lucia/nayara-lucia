@@ -1,4 +1,4 @@
-![tumblr_18933b701be923cc45ce68f910bd5542_941dac74_400](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/4ad79268-a97d-40c0-990c-35c885277a61)
+![tumblr](https://64.media.tumblr.com/556d830156e1994072d131a1a6ef4349/038b5d1fbc72f290-03/s400x600/e851ba13cbeaad31b66ff2aac9e394892b3c0718.gifv)
 ### Hello! You can call me Naya 😺
 
 - Working as Data Intern 👷‍♀️
@@ -6,7 +6,7 @@
 - Bachelor's Degree in Computer Science 🤖
 - Studying Machine Learning and NLP 🧠
 
-![tumblr_ea3bf9448f7624bbc4267e791c8136bc_2026688c_100](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/036e4f98-eed7-4145-8205-7fac18d74745)
+![tumblr](https://64.media.tumblr.com/cff9a755097d997ef5a43920663460c1/e9e5eaac84bb2c66-4f/s100x200/6bba68e074780ca40a5469f36e45f200bda12436.gifv)
 
 
 
@@ -14,7 +14,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-lsilva/) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nayaraway089)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayaralucia)
-![tumblr_b147a05014a4c67d8db1a65fac2b3d5b_5b7884cc_250](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/d6526e4f-0268-4c46-b819-6b290a44b7f6)
+![tumblr](https://64.media.tumblr.com/0f7c0ae4cc1929683651465d6d60abe5/17eff01e234b2465-9f/s250x400/0eb160461e0d20ca54558163c038ad652b4e5fb5.gifv)
 
 
 <hr></hr>
