@@ -25,7 +25,8 @@ Main 🖥
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br></br>
 
-![tumblr](https://64.media.tumblr.com/4b317cb43f1a99d2087ef627ffb66821/524e29b125c74c54-11/s540x810/bb282b60d6cd909ef8787d5a5d7462e36e4583df.gifv)
+![tumblr_4b317cb43f1a99d2087ef627ffb66821_bb282b60_540-ezgif com-effects](https://github.com/nayara-lucia/nayara-lucia/assets/126920974/933d656b-37ed-4f35-8585-b020c0c09fd4)
+
 
 <hr></hr>
 
