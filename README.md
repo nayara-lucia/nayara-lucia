@@ -6,7 +6,13 @@
 - Bachelor's Degree in Computer Science 🤖
 - Studying Machine Learning and NLP 🧠
 
-![tumblr](https://64.media.tumblr.com/cff9a755097d997ef5a43920663460c1/e9e5eaac84bb2c66-4f/s100x200/6bba68e074780ca40a5469f36e45f200bda12436.gifv) ![tumblr](https://64.media.tumblr.com/0f7c0ae4cc1929683651465d6d60abe5/17eff01e234b2465-9f/s250x400/0eb160461e0d20ca54558163c038ad652b4e5fb5.gifv)
+![tumblr](https://64.media.tumblr.com/cff9a755097d997ef5a43920663460c1/e9e5eaac84bb2c66-4f/s100x200/6bba68e074780ca40a5469f36e45f200bda12436.gifv) 
+
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-lsilva/) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nayaraway089)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayaralucia)
+![tumblr](https://64.media.tumblr.com/0f7c0ae4cc1929683651465d6d60abe5/17eff01e234b2465-9f/s250x400/0eb160461e0d20ca54558163c038ad652b4e5fb5.gifv)
 
 
 <hr></hr>
@@ -16,9 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-lucia&theme=highcontrast)](https://github.com/nayara-lucia/github-readme-stats)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-lsilva/) 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nayaraway089)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayaralucia)
+
 
 Main 🖥
 
