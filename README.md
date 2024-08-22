@@ -2,7 +2,7 @@
 ### Hello! You can call me Naya 🟣
 
 - Working as Data Intern 🔮
-- Data Science Lover and AI 💜
+- Data Science, Data Engineering and AI 💜
 - Bachelor's Degree in Computer Science 🍇
 
 ![tumblr](https://64.media.tumblr.com/cff9a755097d997ef5a43920663460c1/e9e5eaac84bb2c66-4f/s100x200/6bba68e074780ca40a5469f36e45f200bda12436.gifv) 
