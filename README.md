@@ -11,7 +11,6 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nayaraway089)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/nayara-lucia/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nayaralucia)
-![tumblr](https://64.media.tumblr.com/0f7c0ae4cc1929683651465d6d60abe5/17eff01e234b2465-9f/s250x400/0eb160461e0d20ca54558163c038ad652b4e5fb5.gifv)
 
 
 <hr></hr>
